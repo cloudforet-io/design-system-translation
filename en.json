@@ -42,7 +42,7 @@
 		"CANCEL": "Cancel",
 		"CONFIRM": "Confirm",
 		"NEXT": "Next",
-		"OPTIONAL": "Optional",
+		"OPTIONAL": "optional",
 		"PREV": "Prev",
 		"STEP": "Step {step}"
 	},
