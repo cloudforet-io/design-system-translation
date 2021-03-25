@@ -27,6 +27,9 @@
 		"INPUT_DESC": "Type {text} to Confirm.",
 		"INVALID_TEXT": "text is not {text}"
 	},
+	"FIELD_GROUP": {
+		"OPTIONAL": "optional"
+	},
 	"PAGE_TITLE": {
 		"SELECTED_OF": "{selectedCount} / {totalCount}"
 	},

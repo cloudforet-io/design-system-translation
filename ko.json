@@ -27,6 +27,9 @@
 		"INPUT_DESC": "확인을 위해 {text}를 입력하세요.",
 		"INVALID_TEXT": "{text}가 아닙니다."
 	},
+	"FIELD_GROUP": {
+		"OPTIONAL": "선택사항"
+	},
 	"PAGE_TITLE": {
 		"SELECTED_OF": "{selectedCount} / {totalCount}"
 	},

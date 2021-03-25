@@ -27,6 +27,9 @@
 		"INPUT_DESC": "確認のため{text}を入力してください",
 		"INVALID_TEXT": "{text}ではありません"
 	},
+	"FIELD_GROUP": {
+		"OPTIONAL": ""
+	},
 	"PAGE_TITLE": {
 		"SELECTED_OF": "{selectedCount} / {totalCount}"
 	},
