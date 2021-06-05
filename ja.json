@@ -7,6 +7,10 @@
 		"HIDE": "隠す",
 		"SEE_MORE": "もっと見る"
 	},
+	"COLLAPSIBLE_TOGGLE": {
+		"HIDE": "",
+		"SHOW_MORE": ""
+	},
 	"CONTEXT_MENU": {
 		"NO_ITEM": "アイテムがありません"
 	},

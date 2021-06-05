@@ -7,6 +7,10 @@
 		"HIDE": "Hide",
 		"SEE_MORE": "See more"
 	},
+	"COLLAPSIBLE_TOGGLE": {
+		"HIDE": "hide",
+		"SHOW_MORE": "show more"
+	},
 	"CONTEXT_MENU": {
 		"NO_ITEM": "No Item"
 	},

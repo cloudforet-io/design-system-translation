@@ -7,6 +7,10 @@
 		"HIDE": "숨기기",
 		"SEE_MORE": "더보기"
 	},
+	"COLLAPSIBLE_TOGGLE": {
+		"HIDE": "숨기기",
+		"SHOW_MORE": "더보기"
+	},
 	"CONTEXT_MENU": {
 		"NO_ITEM": "아이템이 없습니다. "
 	},
