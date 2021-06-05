@@ -8,8 +8,8 @@
 		"SEE_MORE": "もっと見る"
 	},
 	"COLLAPSIBLE_TOGGLE": {
-		"HIDE": "",
-		"SHOW_MORE": ""
+		"HIDE": "隠す",
+		"SHOW_MORE": "もっと見る"
 	},
 	"CONTEXT_MENU": {
 		"NO_ITEM": "アイテムがありません"
