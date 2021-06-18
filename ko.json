@@ -71,5 +71,8 @@
 	},
 	"SEARCH": {
 		"PLACEHOLDER": "검색"
+	},
+	"SELECT_DROPDOWN": {
+		"SELECT": "선택"
 	}
 }

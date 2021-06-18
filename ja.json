@@ -71,5 +71,8 @@
 	},
 	"SEARCH": {
 		"PLACEHOLDER": "検索"
+	},
+	"SELECT_DROPDOWN": {
+		"SELECT": ""
 	}
 }
