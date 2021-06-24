@@ -14,6 +14,9 @@
 	"CONTEXT_MENU": {
 		"NO_ITEM": "No Item"
 	},
+	"COPY_BUTTON": {
+		"COPIED": "Copied"
+	},
 	"DATA_LOADER": {
 		"NO_DATA": "No Data"
 	},
