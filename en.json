@@ -75,6 +75,11 @@
 	"SEARCH": {
 		"PLACEHOLDER": "Search"
 	},
+	"SEARCH_DROPDOWN": {
+		"DONE": "Done",
+		"ITEMS_SELECTED": "item selected | items selected",
+		"SELECTED_LIST": "Selected List"
+	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "Select"
 	}

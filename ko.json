@@ -75,6 +75,11 @@
 	"SEARCH": {
 		"PLACEHOLDER": "검색"
 	},
+	"SEARCH_DROPDOWN": {
+		"DONE": "완료",
+		"ITEMS_SELECTED": "개의 아이템 선택됨",
+		"SELECTED_LIST": "선택된 항목"
+	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "선택"
 	}
