@@ -12,7 +12,9 @@
 		"SHOW_MORE": "もっと見る"
 	},
 	"CONTEXT_MENU": {
-		"NO_ITEM": "アイテムがありません"
+		"DONE": "",
+		"NO_ITEM": "アイテムがありません",
+		"SELECTED_LIST": ""
 	},
 	"COPY_BUTTON": {
 		"COPIED": ""
@@ -76,9 +78,7 @@
 		"PLACEHOLDER": "検索"
 	},
 	"SEARCH_DROPDOWN": {
-		"DONE": "",
-		"ITEMS_SELECTED": "",
-		"SELECTED_LIST": ""
+		"ITEMS_SELECTED": ""
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": ""

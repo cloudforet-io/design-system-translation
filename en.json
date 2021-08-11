@@ -12,7 +12,9 @@
 		"SHOW_MORE": "show more"
 	},
 	"CONTEXT_MENU": {
-		"NO_ITEM": "No Item"
+		"DONE": "Done",
+		"NO_ITEM": "No Item",
+		"SELECTED_LIST": "Selected List"
 	},
 	"COPY_BUTTON": {
 		"COPIED": "Copied"
@@ -76,9 +78,7 @@
 		"PLACEHOLDER": "Search"
 	},
 	"SEARCH_DROPDOWN": {
-		"DONE": "Done",
-		"ITEMS_SELECTED": "item selected | items selected",
-		"SELECTED_LIST": "Selected List"
+		"ITEMS_SELECTED": "item selected | items selected"
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "Select"
