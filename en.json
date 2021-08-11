@@ -14,7 +14,8 @@
 	"CONTEXT_MENU": {
 		"DONE": "Done",
 		"NO_ITEM": "No Item",
-		"SELECTED_LIST": "Selected List"
+		"SELECTED_LIST": "Selected List",
+		"SELECT_ALL": "Select All"
 	},
 	"COPY_BUTTON": {
 		"COPIED": "Copied"

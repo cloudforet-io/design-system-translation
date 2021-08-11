@@ -14,7 +14,8 @@
 	"CONTEXT_MENU": {
 		"DONE": "완료",
 		"NO_ITEM": "아이템이 없습니다. ",
-		"SELECTED_LIST": "선택된 항목"
+		"SELECTED_LIST": "선택된 항목",
+		"SELECT_ALL": "모두 선택"
 	},
 	"COPY_BUTTON": {
 		"COPIED": "복사됨"

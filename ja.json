@@ -14,7 +14,8 @@
 	"CONTEXT_MENU": {
 		"DONE": "",
 		"NO_ITEM": "アイテムがありません",
-		"SELECTED_LIST": ""
+		"SELECTED_LIST": "",
+		"SELECT_ALL": ""
 	},
 	"COPY_BUTTON": {
 		"COPIED": ""
