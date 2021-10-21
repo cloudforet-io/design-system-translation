@@ -26,6 +26,10 @@
 	"DATA_TABLE": {
 		"NO_DATA": "データがありません"
 	},
+	"DATETIME_PICKER": {
+		"SELECT_DATE": "",
+		"SELECT_TIME": ""
+	},
 	"DATE_PAGINATION": {
 		"MONTH": "月",
 		"YEAR": "年"

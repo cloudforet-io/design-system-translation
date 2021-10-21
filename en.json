@@ -26,6 +26,10 @@
 	"DATA_TABLE": {
 		"NO_DATA": "No Data"
 	},
+	"DATETIME_PICKER": {
+		"SELECT_DATE": "Select Date",
+		"SELECT_TIME": "Select Time"
+	},
 	"DATE_PAGINATION": {
 		"MONTH": "Month",
 		"YEAR": "Year"

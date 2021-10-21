@@ -26,6 +26,10 @@
 	"DATA_TABLE": {
 		"NO_DATA": "데이터가 없습니다."
 	},
+	"DATETIME_PICKER": {
+		"SELECT_DATE": "날짜 선택",
+		"SELECT_TIME": "시간 선택"
+	},
 	"DATE_PAGINATION": {
 		"MONTH": "월 ",
 		"YEAR": "년 "
