@@ -83,7 +83,8 @@
 		"PLACEHOLDER": "検索"
 	},
 	"SEARCH_DROPDOWN": {
-		"ITEMS_SELECTED": ""
+		"ITEMS_SELECTED": "",
+		"PLACEHOLDER": "選擇"
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": ""

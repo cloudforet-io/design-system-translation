@@ -83,7 +83,8 @@
 		"PLACEHOLDER": "검색"
 	},
 	"SEARCH_DROPDOWN": {
-		"ITEMS_SELECTED": "개의 아이템 선택됨"
+		"ITEMS_SELECTED": "개의 아이템 선택됨",
+		"PLACEHOLDER": "선택"
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "선택"
