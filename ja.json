@@ -76,7 +76,7 @@
 		"TITLE": "検索ガイド"
 	},
 	"QUERY_SEARCH_TAGS": {
-		"CLEAR_ALL": "全て消す",
+		"CLEAR_ALL": "",
 		"FILTER": "フィルター"
 	},
 	"SEARCH": {
