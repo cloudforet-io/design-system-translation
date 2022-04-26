@@ -12,13 +12,13 @@
 		"SHOW_MORE": "もっと見る"
 	},
 	"CONTEXT_MENU": {
-		"DONE": "",
+		"DONE": "完了",
 		"NO_ITEM": "アイテムがありません",
-		"SELECTED_LIST": "",
-		"SELECT_ALL": ""
+		"SELECTED_LIST": "選択された項目",
+		"SELECT_ALL": "すべて選択"
 	},
 	"COPY_BUTTON": {
-		"COPIED": ""
+		"COPIED": "コピーされました"
 	},
 	"DATA_LOADER": {
 		"NO_DATA": "データがありません"
@@ -27,8 +27,8 @@
 		"NO_DATA": "データがありません"
 	},
 	"DATETIME_PICKER": {
-		"SELECT_DATE": "",
-		"SELECT_TIME": ""
+		"SELECT_DATE": "日付選択",
+		"SELECT_TIME": "時間選択"
 	},
 	"DATE_PAGINATION": {
 		"MONTH": "月",
@@ -42,7 +42,7 @@
 		"INVALID_TEXT": "{text}ではありません"
 	},
 	"FIELD_GROUP": {
-		"OPTIONAL": ""
+		"OPTIONAL": "選択事項"
 	},
 	"PAGE_TITLE": {
 		"SELECTED_OF": "{selectedCount} / {totalCount}"
@@ -76,17 +76,17 @@
 		"TITLE": "検索ガイド"
 	},
 	"QUERY_SEARCH_TAGS": {
-		"CLEAR_ALL": "",
+		"CLEAR_ALL": "消す",
 		"FILTER": "フィルター"
 	},
 	"SEARCH": {
 		"PLACEHOLDER": "検索"
 	},
 	"SEARCH_DROPDOWN": {
-		"ITEMS_SELECTED": "",
+		"ITEMS_SELECTED": "アイテム選択",
 		"PLACEHOLDER": "選擇"
 	},
 	"SELECT_DROPDOWN": {
-		"SELECT": ""
+		"SELECT": "選択"
 	}
 }
