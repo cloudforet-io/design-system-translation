@@ -41,6 +41,9 @@
 		"INPUT_DESC": "확인을 위해 {text}를 입력하세요.",
 		"INVALID_TEXT": "{text}가 아닙니다."
 	},
+	"EMPTY": {
+		"NO_DATA": "데이터가 없습니다."
+	},
 	"FIELD_GROUP": {
 		"OPTIONAL": "선택사항"
 	},
