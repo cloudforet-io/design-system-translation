@@ -1,6 +1,7 @@
 {
 	"BUTTON_MODAL": {
 		"CANCEL": "Cancel",
+		"CLOSE": "Close",
 		"CONFIRM": "Confirm"
 	},
 	"COLLAPSIBLE_PANEL": {

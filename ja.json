@@ -1,6 +1,7 @@
 {
 	"BUTTON_MODAL": {
 		"CANCEL": "キャンセル",
+		"CLOSE": "閉じる",
 		"CONFIRM": "確認"
 	},
 	"COLLAPSIBLE_PANEL": {
