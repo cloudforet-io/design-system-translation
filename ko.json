@@ -92,5 +92,9 @@
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "선택"
+	},
+	"TEXT_INPUT": {
+		"HIDE": "숨기기",
+		"SHOW": "더보기"
 	}
 }

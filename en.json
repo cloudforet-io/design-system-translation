@@ -92,5 +92,9 @@
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "Select"
+	},
+	"TEXT_INPUT": {
+		"HIDE": "Hide",
+		"SHOW": "Show"
 	}
 }
