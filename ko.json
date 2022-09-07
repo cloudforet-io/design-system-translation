@@ -48,6 +48,9 @@
 	"FIELD_GROUP": {
 		"OPTIONAL": "선택사항"
 	},
+	"JSON_SCHEMA_FORM": {
+		"GENERATE": "생성하기"
+	},
 	"PAGE_TITLE": {
 		"SELECTED_OF": "{selectedCount} / {totalCount}"
 	},

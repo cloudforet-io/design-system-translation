@@ -48,6 +48,9 @@
 	"FIELD_GROUP": {
 		"OPTIONAL": "optional"
 	},
+	"JSON_SCHEMA_FORM": {
+		"GENERATE": "Generate"
+	},
 	"PAGE_TITLE": {
 		"SELECTED_OF": "{selectedCount} / {totalCount}"
 	},

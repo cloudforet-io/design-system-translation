@@ -48,6 +48,9 @@
 	"FIELD_GROUP": {
 		"OPTIONAL": "選択事項"
 	},
+	"JSON_SCHEMA_FORM": {
+		"GENERATE": ""
+	},
 	"PAGE_TITLE": {
 		"SELECTED_OF": "{selectedCount} / {totalCount}"
 	},
