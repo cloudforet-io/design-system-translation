@@ -49,7 +49,7 @@
 		"OPTIONAL": "選択事項"
 	},
 	"JSON_SCHEMA_FORM": {
-		"GENERATE": ""
+		"GENERATE": "生成する"
 	},
 	"PAGE_TITLE": {
 		"SELECTED_OF": "{selectedCount} / {totalCount}"
