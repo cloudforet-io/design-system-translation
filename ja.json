@@ -16,7 +16,8 @@
 		"CLEAR_SELECTION": "",
 		"DONE": "完了",
 		"NO_ITEM": "アイテムがありません",
-		"SELECTED_LIST": "選択された項目"
+		"SELECTED_LIST": "選択された項目",
+		"SHOW_MORE": ""
 	},
 	"COPY_BUTTON": {
 		"COPIED": "コピーされました"

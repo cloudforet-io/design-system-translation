@@ -16,7 +16,8 @@
 		"CLEAR_SELECTION": "Clear Selection",
 		"DONE": "Done",
 		"NO_ITEM": "No Item",
-		"SELECTED_LIST": "Selected List"
+		"SELECTED_LIST": "Selected List",
+		"SHOW_MORE": "Show more"
 	},
 	"COPY_BUTTON": {
 		"COPIED": "Copied"
