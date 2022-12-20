@@ -13,10 +13,10 @@
 		"SHOW_MORE": "show more"
 	},
 	"CONTEXT_MENU": {
+		"CLEAR_SELECTION": "Clear Selection",
 		"DONE": "Done",
 		"NO_ITEM": "No Item",
-		"SELECTED_LIST": "Selected List",
-		"SELECT_ALL": "Select All"
+		"SELECTED_LIST": "Selected List"
 	},
 	"COPY_BUTTON": {
 		"COPIED": "Copied"

@@ -13,10 +13,10 @@
 		"SHOW_MORE": "もっと見る"
 	},
 	"CONTEXT_MENU": {
+		"CLEAR_SELECTION": "",
 		"DONE": "完了",
 		"NO_ITEM": "アイテムがありません",
-		"SELECTED_LIST": "選択された項目",
-		"SELECT_ALL": "すべて選択"
+		"SELECTED_LIST": "選択された項目"
 	},
 	"COPY_BUTTON": {
 		"COPIED": "コピーされました"
