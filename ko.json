@@ -49,6 +49,10 @@
 	"FIELD_GROUP": {
 		"OPTIONAL": "선택사항"
 	},
+	"FILTERABLE_DROPDOWN": {
+		"ITEMS_SELECTED": "개의 아이템 선택됨",
+		"PLACEHOLDER": "선택"
+	},
 	"JSON_SCHEMA_FORM": {
 		"GENERATE": "생성하기"
 	},
@@ -89,10 +93,6 @@
 	},
 	"SEARCH": {
 		"PLACEHOLDER": "검색"
-	},
-	"SEARCH_DROPDOWN": {
-		"ITEMS_SELECTED": "개의 아이템 선택됨",
-		"PLACEHOLDER": "선택"
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "선택"

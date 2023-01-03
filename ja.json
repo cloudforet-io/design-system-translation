@@ -49,6 +49,10 @@
 	"FIELD_GROUP": {
 		"OPTIONAL": "選択事項"
 	},
+	"FILTERABLE_DROPDOWN": {
+		"ITEMS_SELECTED": "アイテム選択",
+		"PLACEHOLDER": "選擇"
+	},
 	"JSON_SCHEMA_FORM": {
 		"GENERATE": "生成する"
 	},
@@ -89,10 +93,6 @@
 	},
 	"SEARCH": {
 		"PLACEHOLDER": "検索"
-	},
-	"SEARCH_DROPDOWN": {
-		"ITEMS_SELECTED": "アイテム選択",
-		"PLACEHOLDER": "選擇"
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "選択"

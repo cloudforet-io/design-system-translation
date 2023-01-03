@@ -49,6 +49,10 @@
 	"FIELD_GROUP": {
 		"OPTIONAL": "optional"
 	},
+	"FILTERABLE_DROPDOWN": {
+		"ITEMS_SELECTED": "item selected | items selected",
+		"PLACEHOLDER": "select"
+	},
 	"JSON_SCHEMA_FORM": {
 		"GENERATE": "Generate"
 	},
@@ -89,10 +93,6 @@
 	},
 	"SEARCH": {
 		"PLACEHOLDER": "Search"
-	},
-	"SEARCH_DROPDOWN": {
-		"ITEMS_SELECTED": "item selected | items selected",
-		"PLACEHOLDER": "select"
 	},
 	"SELECT_DROPDOWN": {
 		"SELECT": "Select"
