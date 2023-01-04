@@ -51,7 +51,8 @@
 	},
 	"FILTERABLE_DROPDOWN": {
 		"ITEMS_SELECTED": "item selected | items selected",
-		"PLACEHOLDER": "select"
+		"MULTI_PLACEHOLDER": "Select property: value",
+		"SINGLE_PLACEHOLDER": "Select"
 	},
 	"JSON_SCHEMA_FORM": {
 		"GENERATE": "Generate"
