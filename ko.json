@@ -51,8 +51,8 @@
 	},
 	"FILTERABLE_DROPDOWN": {
 		"ITEMS_SELECTED": "개의 아이템 선택됨",
-		"MULTI_PLACEHOLDER": "",
-		"SINGLE_PLACEHOLDER": "선택"
+		"PLACEHOLDER": "선택",
+		"QUERY_PLACEHOLDER": ""
 	},
 	"JSON_SCHEMA_FORM": {
 		"GENERATE": "생성하기"

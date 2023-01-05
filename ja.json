@@ -51,8 +51,8 @@
 	},
 	"FILTERABLE_DROPDOWN": {
 		"ITEMS_SELECTED": "アイテム選択",
-		"MULTI_PLACEHOLDER": "",
-		"SINGLE_PLACEHOLDER": "選擇"
+		"PLACEHOLDER": "選擇",
+		"QUERY_PLACEHOLDER": ""
 	},
 	"JSON_SCHEMA_FORM": {
 		"GENERATE": "生成する"
