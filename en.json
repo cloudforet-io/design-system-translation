@@ -73,6 +73,9 @@
 		"PREV": "Prev",
 		"STEP": "Step {step}"
 	},
+	"QUERY_INPUT": {
+		"PLACEHOLDER": "Enter property: value"
+	},
 	"QUERY_SEARCH": {
 		"HELP": "help"
 	},

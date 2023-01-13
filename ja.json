@@ -73,6 +73,9 @@
 		"PREV": "前へ",
 		"STEP": "{step}ステップ"
 	},
+	"QUERY_INPUT": {
+		"PLACEHOLDER": ""
+	},
 	"QUERY_SEARCH": {
 		"HELP": "ヘルプ"
 	},

@@ -73,6 +73,9 @@
 		"PREV": "이전 ",
 		"STEP": "{step} 단계"
 	},
+	"QUERY_INPUT": {
+		"PLACEHOLDER": "속성: 값 입력"
+	},
 	"QUERY_SEARCH": {
 		"HELP": "도움말"
 	},
