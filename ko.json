@@ -13,11 +13,11 @@
 		"SHOW_MORE": "더보기"
 	},
 	"CONTEXT_MENU": {
-		"CLEAR_SELECTION": "",
+		"CLEAR_SELECTION": "전체 선택 해제",
 		"DONE": "완료",
 		"NO_ITEM": "아이템이 없습니다. ",
 		"SELECTED_LIST": "선택된 항목",
-		"SHOW_MORE": ""
+		"SHOW_MORE": "더보기"
 	},
 	"COPY_BUTTON": {
 		"COPIED": "복사됨"
